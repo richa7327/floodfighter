@@ -1,0 +1,6 @@
+#ocean{
+	transition: width 2s;
+}
+#cursor:hover #ocean {
+height: 30em;
+}

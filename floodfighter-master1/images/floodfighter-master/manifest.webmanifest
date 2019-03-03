@@ -1,0 +1,19 @@
+{
+  "short_name": "FloodFighter",
+  "name": "Flood:Fighter",
+  "icons": [
+    {
+      "src": "images/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#fff",
+  "display": "standalone"
+}
